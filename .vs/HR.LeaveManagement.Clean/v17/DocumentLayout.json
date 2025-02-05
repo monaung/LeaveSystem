@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\LeaveSystem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EE33B297-CB0F-4986-8469-D1A8DF43B1C3}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|d:\\learning\\leavesystem\\hr.leavemanagement.application\\hr.leavemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EE33B297-CB0F-4986-8469-D1A8DF43B1C3}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\hr.leavemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{021E9E24-F7CF-4C2F-A841-2491A8988855}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|d:\\learning\\leavesystem\\hr.leavemanagement.domain\\hr.leavemanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{021E9E24-F7CF-4C2F-A841-2491A8988855}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|solutionrelative:hr.leavemanagement.domain\\hr.leavemanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE33B297-CB0F-4986-8469-D1A8DF43B1C3}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|d:\\learning\\leavesystem\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE33B297-CB0F-4986-8469-D1A8DF43B1C3}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE33B297-CB0F-4986-8469-D1A8DF43B1C3}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|d:\\learning\\leavesystem\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE33B297-CB0F-4986-8469-D1A8DF43B1C3}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,56 +20,8 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HR.LeaveManagement.Domain",
-              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
-              "ToolTip": "D:\\Learning\\LeaveSystem\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
-              "RelativeToolTip": "HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-05T00:58:51.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HR.LeaveManagement.Application",
-              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-              "ToolTip": "D:\\Learning\\LeaveSystem\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-05T00:58:41.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetLeaveTypesQuery.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
-              "ToolTip": "D:\\Learning\\LeaveSystem\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T00:52:54.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetLeaveTypesQueryHandler.cs",
-              "DocumentMoniker": "D:\\Learning\\LeaveSystem\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "ToolTip": "D:\\Learning\\LeaveSystem\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T00:52:10.423Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
