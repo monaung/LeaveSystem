@@ -14,12 +14,13 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.CreateLeave
 
         public CreateLeaveTypeCommandValidator(ILeaveTypeRepository leaveTypeRepository)
         {
+
             RuleFor(x => x.Name)
                 .NotEmpty().WithMessage("{PropertyName} is required")
                 .NotNull()
                 .MaximumLength(70).WithMessage("{PropertyName} must be fewer than 70 characters");
 
-            RuleFor(p => p.DefaultDays)
+            RuleFor(x => x.DefaultDays)
           .GreaterThan(100).WithMessage("{PropertyName} cannot exceed 100")
           .LessThan(1).WithMessage("{PropertyName} cannot be less than 1");
 
